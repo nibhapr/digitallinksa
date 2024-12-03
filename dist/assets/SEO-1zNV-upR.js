@@ -1,0 +1,1 @@
+import{j as e,a as o}from"./index-D_66owGy.js";const m=({title:t,description:s,keywords:n})=>e.jsxs(o,{children:[e.jsx("title",{children:t}),e.jsx("meta",{name:"description",content:s}),e.jsx("meta",{name:"keywords",content:n})]});export{m as S};

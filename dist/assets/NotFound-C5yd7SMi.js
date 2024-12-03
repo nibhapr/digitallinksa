@@ -1,0 +1,1 @@
+import{R as t,j as e}from"./index-D_66owGy.js";const o=()=>e.jsx("div",{className:"flex justify-center items-center h-screen bg-sky-50 text-sky-900",role:"alert","aria-label":"Page not found",children:e.jsx("h1",{className:"text-4xl font-bold",children:"404 - Page Not Found"})}),a=t.memo(o);export{a as default};
